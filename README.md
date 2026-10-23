@@ -87,9 +87,9 @@ Tested access from Windows 10 client PC01 using the Active Directory Sales accou
 
 These tests demonstrate that departmental permissions were enforced as intended.
 
-![Sales Employee Write Access](screenshots/21-sales-employee-authorised-write-access.png)
+![Sales Employee Write Access](screenshots/09-sales-employee-authorised-write-access.png)
 
-![Finance Access Denied](screenshots/22-sales-employee-finance-access-denied.png)
+![Finance Access Denied](screenshots/10-sales-employee-finance-access-denied.png)
 
 ## Windows Print Services Configuration
 
