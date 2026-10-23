@@ -73,9 +73,9 @@ Audited SMB share permissions and NTFS access control lists (ACLs) to verify the
 
 ![SMB Share Permissions](screenshots/03-smb-share-permissions-verification.png)
 
-![NTFS Permissions After Correction](screenshots/08-sales-ntfs-permissions-after-fix.png)
 
-![Departmental NTFS Permission Audit](screenshots/09-remaining-departments-ntfs-audit.png)
+
+
 
 ### Client Access Validation
 
